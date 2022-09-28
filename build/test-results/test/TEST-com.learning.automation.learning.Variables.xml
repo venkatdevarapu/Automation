@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.learning.automation.learning.Variables" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-28T13:50:24" hostname="DESKTOP-5NLT3A5" time="0.022">
+  <properties/>
+  <testcase name="run" classname="com.learning.automation.learning.Variables" time="0.022"/>
+  <system-out><![CDATA[Updating static variable value method1: 40
+Added value from method1: 4040
+Updated Global variable value method1: 60
+Added value from method1: 4060
+Added value from method2: 10040
+Added value from method2: 10060
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
