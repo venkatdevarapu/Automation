@@ -2,7 +2,7 @@ package com.learning.automation.learning.variables;
 
 public class DeclareVariables {
 
-    // Declaring a static variable to test
+    // Declaring a static variable to test variables
     public static int staticVariable = 10;
     // Declaring a global variable
     int globalVariable = 20;
